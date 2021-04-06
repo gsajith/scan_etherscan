@@ -1,6 +1,6 @@
 # EtherScan Scanner
 
-Scans with [Foundation](https://foundation.app/) Ethereum address ([0xcda72070e455bb31c7690a170224ce43623d0b6f](https://etherscan.io/token/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405?a=0xcda72070e455bb31c7690a170224ce43623d0b6f)) for incoming and outgoing transactions.
+Scans the [Foundation](https://foundation.app/) Ethereum address ([0xcda72070e455bb31c7690a170224ce43623d0b6f](https://etherscan.io/token/0x3B3ee1931Dc30C1957379FAc9aba94D1C48a5405?a=0xcda72070e455bb31c7690a170224ce43623d0b6f)) for incoming and outgoing transactions.
 
 Generates a CSV output grouped by day.
 
